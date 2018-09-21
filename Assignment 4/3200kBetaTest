@@ -1,0 +1,36 @@
+Algorithm: Simple Quick Sort
+Array Size: 32000000
+Configuration: Random
+Number of trials10
+Average Time: 13 nanoseconds
+Average Number of Comparisons: 576198170
+Average Number of Data Moves: 884110509
+
+Algorithm: Quick Sort base case 5
+Array Size: 32000000
+Configuration: Random
+Average Time: 12 nanoseconds
+Average Number of Comparisons: 800739684
+Average Number of Data Moves: 776463828
+
+Algorithm: Quick Sort base case 20
+Array Size: 32000000
+Configuration: Random
+Average Time: 11 nanoseconds
+Average Number of Comparisons: 261844414
+Average Number of Data Moves: 858796053
+
+Algorithm: Quick Sort base case 100
+Array Size: 32000000
+Configuration: Random
+Average Time: 11 nanoseconds
+Average Number of Comparisons: 261844414
+Average Number of Data Moves: 858796053
+
+Algorithm: Quick Sort Random Pivot
+Array Size: 32000000
+Configuration: Random
+Average Time: 10 nanoseconds
+Average Number of Comparisons: 261844414
+Average Number of Data Moves: 858796053
+
